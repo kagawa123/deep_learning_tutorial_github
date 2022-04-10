@@ -4,8 +4,7 @@ import torch.nn as nn
 from model import LeNet
 import torch.optim as optim
 import torchvision.transforms as transforms
-"""
-"""
+
 
 def main():
     transform = transforms.Compose(
